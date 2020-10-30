@@ -42,7 +42,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/wilterrero
-[2]: https://www.linkedin.com/in/wilmerterrero/
+[2]: https://www.linkedin.com/in/wilmer-terrero-49540517a/
 
 <!-- icons with padding -->
 
