@@ -18,7 +18,7 @@ My name is Wilmer Terro I'm a software developer/web developer, IT enthusiast, i
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [wilmerterrero.com](https://wilmerterrero.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [wilmerterrero.com](https://wilmerterrero.com/) (spanish).
 
 
 ## &#x1f4c8; GitHub Stats
