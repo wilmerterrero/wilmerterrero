@@ -24,10 +24,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/wilmerterrero/wilmerterrero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerterrero&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" />
+  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmerterrero&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" />
 </a>
 <a href="https://github.com/wilmerterrero/wilmerterrero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wilmerterrero&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" alt="Wilmer's GitHub Stats" />
+  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=wilmerterrero&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" alt="Wilmer's GitHub Stats" />
 </a>
 
 <a href="https://github.com/wilmer/wilmerterrero.com">
