@@ -30,7 +30,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=wilmerterrero&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" alt="Wilmer's GitHub Stats" />
 </a>
 
-<a href="https://github.com/wilmer/wilmerterrero.com">
+<a href="https://github.com/wilmerterrero/wilmerterrero.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wilmerterrero&repo=wilmerterrero.com&title_color=ffffff&text_color=c9cacc&icon_color=FDFD59&bg_color=2D1650" />
 </a>
 
