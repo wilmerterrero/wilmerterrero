@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/SQL-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2D1650)
 ![](https://img.shields.io/badge/SQL-TSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2D1650)
 ![](https://img.shields.io/badge/API-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=2D1650)
+![](https://img.shields.io/badge/API-.NETCore-informational?style=flat&logo=c-sharp&logoColor=white&color=2D1650)
 
 # &#x1F47E; Hello, little bits!
 My name is Wilmer Terro I'm a software developer/web developer, IT enthusiast, in love with web technologies 💜 I'm from Dominican Republic, sometimes I write arcticles about #webdevelopment #entrepreneurship #webtechnologies. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
