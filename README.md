@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/wilmerterrero/wilmerterrero/master/header.png "Header")](https://wilmerterrero.com/)
+<!-- [![Header](https://raw.githubusercontent.com/wilmerterrero/wilmerterrero/master/header.png "Header")](https://wilmerterrero.com/) -->
 
 # &#x1F47E; Hello, little bits!
 My name is Wilmer Terro I'm a software developer/web developer, IT enthusiast, in love with web technologies 💜 I'm from Dominican Republic, sometimes I write arcticles about #webdevelopment #entrepreneurship #webtechnologies. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][2.2]][2].
